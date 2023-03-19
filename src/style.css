@@ -1,0 +1,60 @@
+body {
+  display: block;
+}
+
+h1 {
+  text-align: center;
+  color: #6b0b0b;
+  margin: 0 auto;
+  display: block;
+  line-height: 50px;
+}
+h2 {
+  text-align: center;
+  color: #6b0b0b;
+  margin: 0 auto;
+  line-height: 40px;
+  border: 1px solid #6b0b0b;
+  border-radius: 5px;
+  padding: 4px 4px;
+}
+img {
+  display: block;
+  border-radius: 30px;
+  max-width: 100%;
+  margin: 10px auto;
+  width: 400px;
+}
+p {
+  line-height: 1.5;
+  font-size: 15px;
+  display: block;
+  padding: 10px;
+}
+button {
+  border: 1px solid #6b0b0b;
+  border-radius: 10px;
+  background: #6b0b0b;
+  color: white;
+  display: block;
+  margin: 0 auto;
+  line-height: 30px;
+  font-size: 15px;
+  box-shadow: 5px 5px 10px rgba(0 0 0 0.4);
+  transition: all 150ms ease-in-out;
+}
+.wrap {
+  max-width: 400px;
+  background: #f2d7d7;
+  margin: 0 auto;
+  display: block;
+  padding: 20px 10px;
+  border-radius: 15px;
+}
+.waze {
+  text-align: center;
+  padding-top: 10px;
+}
+.wiki {
+  color: #6b0b0b;
+}
